@@ -32,4 +32,6 @@ $\quad\quad\cdot$ Recurrent neural networks;
 $\quad\quad\cdot$ Transformers: BERT, GPT2;
 
 ### Programming Language & Tools
-$\quad$• Python, Jupyter Notebook
+$\quad$• Python, Jupyter Notebook.
+
+$\quad$• FastText, REST client, Docker.
